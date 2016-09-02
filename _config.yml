@@ -1,19 +1,4 @@
-name: Sisuco
-favicon: null
-layout_spectrum: 0.3303855361882597
 typography_spectrum: 0.0016508647240698338
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6814436039421707
   saturation: 0.6249960300046951
   rhythmicContrast: 0.6623618088196963
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3303855361882597
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Sisuco
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Hola
 purpose: []
